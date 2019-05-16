@@ -1,6 +1,6 @@
 # Installation Instructions
 
-## This document will only guide you to setup the CTF in a windows environment
+## This document will only guide you to setup this CTF in a windows environment
 
 ```bash
 1. Install XAMPP and composer on windows 
