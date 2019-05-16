@@ -18,7 +18,7 @@
 5. open 'hosts' file with notepad++
 ```
 ```bash
-6. Insert '127.0.0.1 neurone' line to the file and then save it 
+6. Insert '127.0.0.1 neurone' line to the file and then save it (you need to run as admin to save this file)
 ```
 ```bash
 7. open 'xampp\apache\conf\extra' folder 
@@ -27,7 +27,7 @@
 8. open 'httpd-vhosts.conf' file
 ```
 ```bash
-9. Add below code and save the file
+9. Add below code and save the file (don't forget to change the DocumentRoot)
 ```
 ```bash
 <VirtualHost neurone:80>
